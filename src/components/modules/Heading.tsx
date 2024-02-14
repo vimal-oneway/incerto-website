@@ -15,7 +15,7 @@ export const Heading = () => {
             el="h1"
           />
           <TextAnimation
-            className="text-clip-all head-title mx-auto inline-block text-center font-gotham text-[30px] font-medium leading-[42px] tracking-[-1.2px] md:text-[44px] md:font-medium md:leading-[60px] md:tracking-tightest"
+            className="mx-auto inline-block text-center font-gotham text-[30px] font-medium leading-[42px] tracking-[-1.2px] md:text-[44px] md:font-medium md:leading-[60px] md:tracking-tightest"
             text={heading1}
             el="h1"
           />
